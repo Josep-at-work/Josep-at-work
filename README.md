@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Josep Roman 👋</h1>
-<h3 align="center">Data Engineer | SQL | Python | Cloud | Big Data</h3>
+<h3 align="center">Analytics Engineer | SQL | Python | Cloud | Big Data</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josep-roman-cardell/">
