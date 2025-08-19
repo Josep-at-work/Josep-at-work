@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me  
-I’m a **Analytics Engineer** with more than **3 years of experience** building scalable **ETL pipelines**, automating **data ingestion**, and building **data warehouse**. My background includes working in consultancy, focusing on **big data technologies**, **cloud platforms**, and **data transformations** to drive analytics and decision-making.  
+I’m an **Analytics Engineer** with more than **4 years of experience** building scalable **ETL pipelines**, automating **data ingestion**, and building **data warehouse**. My background includes working in consultancy, focusing on **big data technologies**, **cloud platforms**, and **data transformations** to drive analytics and decision-making.  
 
 I'm passionate about using my skills to make a **positive environmental impact** and would love to collaborate on projects related to **climate tech** and **sustainability**.  
 
